@@ -15,16 +15,7 @@
   },
   "homepage": "https://github.com/CLCL/node-BME280/readme",
   "dependencies": {
-    "i2c": "0.2.1"
+    "i2c": "haryu703/node-i2c"
   },
-  "devDependencies": {
-    "chai": "^3.4.1",
-    "gulp": "^3.9.0",
-    "gulp-exclude-gitignore": "^1.0.0",
-    "gulp-jshint": "^2.0.0",
-    "gulp-mocha": "^2.2.0",
-    "gulp-plumber": "^1.0.0",
-    "jshint": "^2.8.0",
-    "mocha": "^2.3.4"
-  }
+  "devDependencies": {}
 }
